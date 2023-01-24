@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.10",
+    "ws": "^8.8.1"
+  },
+  "name": "websocket",
+  "version": "1.0.0",
+  "main": "WS_Hausarbeit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
